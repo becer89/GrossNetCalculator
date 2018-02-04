@@ -3,7 +3,6 @@ package calculator;
 public class KosztPrzychodu {
 
 
-
     public double KosztPrzychodu(double koszty){
 
         double a = 0;

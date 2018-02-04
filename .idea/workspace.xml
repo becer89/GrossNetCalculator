@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86892771-f3f7-4877-b5d6-ca17f9713f50" name="Default" comment="" />
+    <list default="true" id="86892771-f3f7-4877-b5d6-ca17f9713f50" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0_M2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0_M2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/calculatorTest/KwotaNettoTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/calculatorTest/PodatekDochodowyTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/calculator/KosztPrzychodu.class" afterPath="$PROJECT_DIR$/target/classes/calculator/KosztPrzychodu.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GrossNetCalculator.iml" afterPath="$PROJECT_DIR$/GrossNetCalculator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/calculator/KosztPrzychodu.java" afterPath="$PROJECT_DIR$/src/main/java/calculator/KosztPrzychodu.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,61 +30,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SkladkaZus.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/calculator/SkladkaZus.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SkladkaZdrowotna.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/calculator/SkladkaZdrowotna.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="9" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SkladkaZdrowotnaPodatek.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/calculator/SkladkaZdrowotnaPodatek.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KosztPrzychodu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/calculator/KosztPrzychodu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/calculator/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,21 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KwotaNetto.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/calculator/KwotaNetto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SkladkaZdrowotnaTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTest/SkladkaZdrowotnaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="357">
+              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,8 +67,40 @@
       <file leaf-file-name="PodatekDochodowy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/calculator/PodatekDochodowy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="105" lean-forward="false" selection-start-line="7" selection-start-column="105" selection-end-line="7" selection-end-column="105" />
+            <state relative-caret-position="306">
+              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SkladkaZdrowotnaPodatek.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/calculator/SkladkaZdrowotnaPodatek.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KwotaNettoTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTest/KwotaNettoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GrossNetCalculator.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GrossNetCalculator.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -119,6 +115,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -130,16 +129,19 @@
         <option value="$PROJECT_DIR$/src/main/java/calculatorTest/Calculator.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/calculatorTest/CalculatorTest.java" />
-        <option value="$PROJECT_DIR$/GrossNetCalculator.iml" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/SkladkaZus.java" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/SkladkaZdrowotna.java" />
         <option value="$PROJECT_DIR$/src/test/java/calculatorTest/SkladkaZdrowotnaTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/calculatorTest/SkladkaZusTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/calculator/KosztPrzychodu.java" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/KwotaNetto.java" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/SkladkaZdrowotnaPodatek.java" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/PodatekDochodowy.java" />
         <option value="$PROJECT_DIR$/src/main/java/calculator/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/calculator/KosztPrzychodu.java" />
+        <option value="$PROJECT_DIR$/src/test/java/calculatorTest/KosztPrzychoduTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/calculatorTest/PodatekDochodowyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/calculatorTest/KwotaNettoTest.java" />
+        <option value="$PROJECT_DIR$/GrossNetCalculator.iml" />
       </list>
     </option>
   </component>
@@ -160,12 +162,13 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="4" />
     <option name="y" value="42" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -263,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="JUnit.KwotaNettoTest">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -283,7 +286,7 @@
       <module name="GrossNetCalculator" />
       <envs />
     </configuration>
-    <configuration name="SkladkaZdrowotnaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KwotaNettoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="calculatorTest.*" />
@@ -294,7 +297,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="calculatorTest" />
-      <option name="MAIN_CLASS_NAME" value="calculatorTest.SkladkaZdrowotnaTest" />
+      <option name="MAIN_CLASS_NAME" value="calculatorTest.KwotaNettoTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -308,7 +311,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SkladkaZdrowotnaTest.ZdrowotnaTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KwotaNettoTest.KwotaNettoTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="calculatorTest.*" />
@@ -319,8 +322,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="calculatorTest" />
-      <option name="MAIN_CLASS_NAME" value="calculatorTest.SkladkaZdrowotnaTest" />
-      <option name="METHOD_NAME" value="ZdrowotnaTest1" />
+      <option name="MAIN_CLASS_NAME" value="calculatorTest.KwotaNettoTest" />
+      <option name="METHOD_NAME" value="KwotaNettoTest1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -333,7 +336,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SkladkaZusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PodatekDochodowyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="calculatorTest.*" />
@@ -344,7 +347,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="calculatorTest" />
-      <option name="MAIN_CLASS_NAME" value="calculatorTest.SkladkaZusTest" />
+      <option name="MAIN_CLASS_NAME" value="calculatorTest.PodatekDochodowyTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -358,7 +361,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SkladkaZusTest.skladkiZusTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PodatekDochodowyTest.PodatekDochodowyTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="calculatorTest.*" />
@@ -369,8 +372,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="calculatorTest" />
-      <option name="MAIN_CLASS_NAME" value="calculatorTest.SkladkaZusTest" />
-      <option name="METHOD_NAME" value="skladkiZusTest2" />
+      <option name="MAIN_CLASS_NAME" value="calculatorTest.PodatekDochodowyTest" />
+      <option name="METHOD_NAME" value="PodatekDochodowyTest1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -465,19 +468,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.SkladkaZusTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SkladkaZusTest.skladkiZusTest2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Calculator" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.SkladkaZdrowotnaTest.ZdrowotnaTest1" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.SkladkaZdrowotnaTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Calculator" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PodatekDochodowyTest.PodatekDochodowyTest1" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PodatekDochodowyTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.KwotaNettoTest.KwotaNettoTest1" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.KwotaNettoTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Calculator" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SkladkaZdrowotnaTest.ZdrowotnaTest1" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SkladkaZdrowotnaTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SkladkaZusTest.skladkiZusTest2" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SkladkaZusTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.KwotaNettoTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.KwotaNettoTest.KwotaNettoTest1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Calculator" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PodatekDochodowyTest.PodatekDochodowyTest1" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PodatekDochodowyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -495,35 +498,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SkladkaZdrowotnaTest_ZdrowotnaTest1 - 2018.02.03 at 21h 37m 15s.xml">
-      <configuration name="SkladkaZdrowotnaTest.ZdrowotnaTest1" configurationId="JUnit" />
+    <history-entry file="KwotaNettoTest - 2018.02.04 at 07h 50m 57s.xml">
+      <configuration name="KwotaNettoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkladkaZdrowotnaTest_ZdrowotnaTest1 - 2018.02.03 at 21h 37m 48s.xml">
-      <configuration name="SkladkaZdrowotnaTest.ZdrowotnaTest1" configurationId="JUnit" />
+    <history-entry file="KwotaNettoTest - 2018.02.04 at 07h 51m 20s.xml">
+      <configuration name="KwotaNettoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkladkaZdrowotnaTest_ZdrowotnaTest1 - 2018.02.03 at 21h 37m 58s.xml">
-      <configuration name="SkladkaZdrowotnaTest.ZdrowotnaTest1" configurationId="JUnit" />
+    <history-entry file="KwotaNettoTest_KwotaNettoTest1 - 2018.02.04 at 07h 47m 15s.xml">
+      <configuration name="KwotaNettoTest.KwotaNettoTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkladkaZdrowotnaTest_ZdrowotnaTest1 - 2018.02.03 at 21h 39m 04s.xml">
-      <configuration name="SkladkaZdrowotnaTest.ZdrowotnaTest1" configurationId="JUnit" />
+    <history-entry file="KwotaNettoTest_KwotaNettoTest1 - 2018.02.04 at 07h 49m 14s.xml">
+      <configuration name="KwotaNettoTest.KwotaNettoTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkladkaZusTest - 2018.02.03 at 20h 53m 52s.xml">
-      <configuration name="SkladkaZusTest" configurationId="JUnit" />
+    <history-entry file="KwotaNettoTest_KwotaNettoTest1 - 2018.02.04 at 07h 49m 33s.xml">
+      <configuration name="KwotaNettoTest.KwotaNettoTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkladkaZusTest - 2018.02.03 at 20h 55m 22s.xml">
-      <configuration name="SkladkaZusTest" configurationId="JUnit" />
+    <history-entry file="PodatekDochodowyTest_PodatekDochodowyTest1 - 2018.02.04 at 07h 35m 02s.xml">
+      <configuration name="PodatekDochodowyTest.PodatekDochodowyTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkladkaZusTest_skladkiZusTest1 - 2018.02.03 at 20h 47m 01s.xml">
-      <configuration name="SkladkaZusTest.skladkiZusTest1" configurationId="JUnit" />
+    <history-entry file="PodatekDochodowyTest_PodatekDochodowyTest1 - 2018.02.04 at 07h 37m 57s.xml">
+      <configuration name="PodatekDochodowyTest.PodatekDochodowyTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkladkaZusTest_skladkiZusTest1 - 2018.02.03 at 20h 47m 14s.xml">
-      <configuration name="SkladkaZusTest.skladkiZusTest1" configurationId="JUnit" />
+    <history-entry file="PodatekDochodowyTest_PodatekDochodowyTest1 - 2018.02.04 at 07h 38m 15s.xml">
+      <configuration name="PodatekDochodowyTest.PodatekDochodowyTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkladkaZusTest_skladkiZusTest2 - 2018.02.03 at 20h 54m 49s.xml">
-      <configuration name="SkladkaZusTest.skladkiZusTest2" configurationId="JUnit" />
+    <history-entry file="PodatekDochodowyTest_PodatekDochodowyTest1 - 2018.02.04 at 07h 38m 39s.xml">
+      <configuration name="PodatekDochodowyTest.PodatekDochodowyTest1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SkladkaZusTest_skladkiZusTest2 - 2018.02.03 at 20h 55m 45s.xml">
-      <configuration name="SkladkaZusTest.skladkiZusTest2" configurationId="JUnit" />
+    <history-entry file="PodatekDochodowyTest_PodatekDochodowyTest1 - 2018.02.04 at 07h 39m 09s.xml">
+      <configuration name="PodatekDochodowyTest.PodatekDochodowyTest1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -536,7 +539,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -547,8 +550,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.50907713" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36245954" sideWeight="0.49092284" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36245954" sideWeight="0.49092284" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -572,7 +575,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/calculatorTest/PodatekDochodowyTest.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -593,24 +604,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GrossNetCalculator.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTest/SkladkaZdrowotnaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTest/SkladkaZusTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -619,34 +612,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/KwotaNetto.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTest/KosztPrzychoduTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/PodatekDochodowy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="105" lean-forward="false" selection-start-line="7" selection-start-column="105" selection-end-line="7" selection-end-column="105" />
+        <state relative-caret-position="204">
+          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator/KosztPrzychodu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/SkladkaZdrowotnaPodatek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -662,7 +639,51 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator/SkladkaZus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/PodatekDochodowy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTest/SkladkaZdrowotnaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/KwotaNetto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="116" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTest/PodatekDochodowyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/calculator/SkladkaZdrowotnaPodatek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="68" />
           <folding />
         </state>
       </provider>
@@ -670,7 +691,25 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GrossNetCalculator.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/calculatorTest/KwotaNettoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
