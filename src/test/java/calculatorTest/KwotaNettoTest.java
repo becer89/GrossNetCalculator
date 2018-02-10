@@ -1,12 +1,7 @@
 package calculatorTest;
 
-import calculator.KwotaNetto;
-import org.junit.jupiter.api.Test;
-
-import static java.lang.Math.round;
-
 public class KwotaNettoTest {
-
+/*
     double kwotaBrutto = 3300;
     double SkladkaZus = 452;
     double SkladkaZdrowotna = 256;
@@ -20,5 +15,5 @@ public class KwotaNettoTest {
         System.out.println(round(netto1));
         assert round(netto1) == 2367;
 
-    }
+    }*/
 }

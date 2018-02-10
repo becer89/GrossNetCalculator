@@ -1,11 +1,7 @@
 package calculatorTest;
 
-import calculator.SkladkaZdrowotna;
-import calculator.SkladkaZus;
-import org.junit.Test;
-
 public class SkladkaZdrowotnaTest {
-
+/*
     double kwotaBrutto = 2500;
 
     @Test
@@ -18,5 +14,5 @@ public class SkladkaZdrowotnaTest {
         System.out.println(test1.SkladkaZdrowotna(test2.SkladkaZus(kwotaBrutto), kwotaBrutto));
         assert test1.SkladkaZdrowotna(test2.SkladkaZus(kwotaBrutto), kwotaBrutto) == 194.1525;
     }
-
+*/
 }

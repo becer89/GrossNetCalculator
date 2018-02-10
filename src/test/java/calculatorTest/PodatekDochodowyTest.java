@@ -1,10 +1,6 @@
 package calculatorTest;
 
-import calculator.PodatekDochodowy;
-import org.junit.Test;
-
-import static java.lang.StrictMath.round;
-
+/*
 public class PodatekDochodowyTest {
 
     double kwotaBrutto = 3300;
@@ -26,3 +22,4 @@ public class PodatekDochodowyTest {
 
     }
 }
+*/

@@ -3,7 +3,7 @@ package calculator;
 public class PodatekDochodowy {
 
 
-
+/*
 
     public  double PodatekDochodowy(double kwotaBrutto, double SkladkaZus, double KosztPrzychpdu, double SkladkaZdrowotnaPodatek) {
 
@@ -14,6 +14,6 @@ public class PodatekDochodowy {
 
 
 
-    }
+    }*/
 
 }

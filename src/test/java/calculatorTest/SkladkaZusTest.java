@@ -1,10 +1,7 @@
 package calculatorTest;
 
-import calculator.SkladkaZus;
-import org.junit.Test;
-
 public class SkladkaZusTest {
-
+/*
     double kwotaBrutto = 2500;
 
     @Test
@@ -26,7 +23,7 @@ public class SkladkaZusTest {
         System.out.println(test.SkladkaZus(kwotaBrutto));
         assert test.SkladkaZus(kwotaBrutto) != 342.76;
     }
-
+*/
 
 
 
