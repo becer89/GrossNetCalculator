@@ -20,19 +20,19 @@ public class Licz {
 
         if (koszty == 1) {
             double kosztPrzychodu = 112.25;
+            return kosztPrzychodu;
         } else if (koszty == 2) {
             double kosztPrzychodu = 139.06;
+            return kosztPrzychodu;
         }else
             System.out.println("Podaj poprawną wartość!");
         return kosztPrzychodu;
 
     }
 
-
-
     public Double KwotaNetto(Double kwotaBrutto, Double SkladkaZus, Double SkladkaZdrowotna, Double PodatekDochodowy ){
 
-        double netto = kwotaBrutto - SkladkaZus - SkladkaZdrowotna - PodatekDochodowy;
+        double netto = kwotaBrutto - (SkladkaZus + SkladkaZdrowotna + PodatekDochodowy);
         return netto;
 
     }
@@ -71,17 +71,14 @@ public class Licz {
     }
 
 
-
     public Licz() {
 
-
-        this.netto = KwotaNetto(kwotaBrutto,SkladkaZus(kwotaBrutto), SkladkaZus(kwotaBrutto), PodatekDochodowy(kwotaBrutto,SkladkaZus(kwotaBrutto),KosztPrzychodu(koszty),SkladkaZdrowotnaPodatek(SkladkaZus(kwotaBrutto), kwotaBrutto)));
+        this.netto = KwotaNetto(kwotaBrutto,SkladkaZus(kwotaBrutto),SkladkaZdrowotna(SkladkaZus(kwotaBrutto),kwotaBrutto),PodatekDochodowy(kwotaBrutto,SkladkaZus(kwotaBrutto),KosztPrzychodu(koszty),SkladkaZdrowotnaPodatek(SkladkaZus(kwotaBrutto),kwotaBrutto)));
         this.kosztPrzychodu = KosztPrzychodu(koszty);
         this.podatekDochodowy = PodatekDochodowy(kwotaBrutto, SkladkaZus(kwotaBrutto),KosztPrzychodu(koszty),SkladkaZdrowotnaPodatek(SkladkaZus(kwotaBrutto),kwotaBrutto));
         this.skladkaZdrowotna = SkladkaZdrowotna(SkladkaZus(kwotaBrutto), kwotaBrutto);
         this.skladkaZdrowotnaPodatek = SkladkaZdrowotnaPodatek(SkladkaZus(kwotaBrutto), kwotaBrutto);
         this.skladkaZus = SkladkaZus(kwotaBrutto);
-
 
     }
 

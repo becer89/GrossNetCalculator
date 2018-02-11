@@ -1,5 +1,7 @@
 package calculator;
 
+import static java.lang.StrictMath.round;
+
 public class Calculator {
 
     public static void main(String[] args) {
@@ -8,12 +10,12 @@ public class Calculator {
         Licz policz = new Licz();
 
 
-        System.out.println("Kwota brutto wynosi: "+  policz.kwotaBrutto+ " zł.");
-        System.out.println("Składka na ZUS wynosi: "+ policz.skladkaZus+" zł.");
-        System.out.println("Składka na ubezpieczenie zdrowotne wynosi: "+ policz.skladkaZdrowotna+ " zł.");
-        System.out.println("Koszt uzyskania przychodu wynosi: "+ policz.kosztPrzychodu+ " zł.");
-        System.out.println("Podatek dochodowy wynosi: "+ policz.podatekDochodowy+ " zł.");
-        System.out.println("Kwota netto wynosi: "+  policz.netto + " zł.");
+        System.out.println("Kwota brutto wynosi: "+  round(policz.kwotaBrutto)+ " zł.");
+        System.out.println("Składka na ZUS wynosi: "+ round(policz.skladkaZus)+" zł.");
+        System.out.println("Składka na ubezpieczenie zdrowotne wynosi: "+ round(policz.skladkaZdrowotna)+ " zł.");
+        System.out.println("Koszt uzyskania przychodu wynosi: "+ round(policz.kosztPrzychodu)+ " zł.");
+        System.out.println("Podatek dochodowy wynosi: "+ round(policz.podatekDochodowy)+ " zł.");
+        System.out.println("Kwota netto wynosi: "+  round(policz.netto) + " zł.");
 
 
     }
